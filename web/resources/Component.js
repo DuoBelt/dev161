@@ -1,7 +1,7 @@
 /*eslint no-console: 0, no-unused-vars: 0, no-use-before-define: 0, no-redeclare: 0*/
-jQuery.sap.declare("dev602.odataTest.Component");
+jQuery.sap.declare("dev161.odataTest.Component");
 
-sap.ui.core.UIComponent.extend("dev602.odataTest.Component", {
+sap.ui.core.UIComponent.extend("dev161.odataTest.Component", {
 	init: function() {
 		jQuery.sap.require("sap.m.MessageBox");
 		jQuery.sap.require("sap.m.MessageToast");
