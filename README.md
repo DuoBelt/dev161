@@ -2,6 +2,7 @@
 SAP TechEd 2016: 	Intro to SAP HANA Extended Application Services, Advanced Model Development 2 Hour Hands-On - Demo
 With SAP HANA SPS 11, SAP has introduced a major new application server architecture: SAP HANA extended application services, advanced model. This new architecture is based upon Cloud Foundry and the concepts of microservices. It expands the support runtimes to include Node.js and Apache Java- based development. In this session we will develop a first Node.js-based application using SAP HANA extended application services and SAP Web IDE for SAP HANA.
 
+Demo
 EXERCISE 1 – HELLO WORLD
 Objective
 In this first exercise, we will connect to the remote system, run the new project wizard, and then create an HTML5 module to serve as the application endpoint and proxy all of our services and client-side content. At the end of this exercise you will be able to connect to your server via web browser and see a Hello World message.
